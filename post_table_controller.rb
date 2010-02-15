@@ -28,7 +28,8 @@ class PostTableController
     
     @postTableView.dataSource = self
     @postTableView.delegate = self
-    puts @postTableView.public_methods
+    
+    @textView.setFont NSFont.userFixedPitchFontOfSize(12)
   end
   
   def numberOfRowsInTableView(view)
@@ -67,6 +68,7 @@ class PostTableController
   #works
   def tableViewSelectionDidChange(notification)
     NSLog("tableViewSelectionDidChange")
+    @textView.setString @posts[@postTableView.selectedRow].body
   end
   
   
