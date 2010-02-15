@@ -767,7 +767,7 @@
 			<object class="NSWindowTemplate" id="972006081">
 				<int key="NSWindowStyleMask">15</int>
 				<int key="NSWindowBacking">2</int>
-				<string key="NSWindowRect">{{335, 138}, {674, 612}}</string>
+				<string key="NSWindowRect">{{335, 159}, {674, 591}}</string>
 				<int key="NSWTFlags">1946157056</int>
 				<string key="NSWindowTitle">Window</string>
 				<string key="NSWindowClass">NSWindow</string>
@@ -962,7 +962,7 @@
 								</object>
 								<reference ref="522558680"/>
 							</object>
-							<string key="NSFrame">{{-1, 424}, {676, 189}}</string>
+							<string key="NSFrame">{{-1, 403}, {676, 189}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
 							<reference key="NSNextKeyView" ref="555515824"/>
 							<int key="NSsFlags">562</int>
@@ -1105,7 +1105,7 @@
 								<object class="NSScroller" id="743443900">
 									<reference key="NSNextResponder" ref="848692267"/>
 									<int key="NSvFlags">256</int>
-									<string key="NSFrame">{{660, 1}, {15, 394}}</string>
+									<string key="NSFrame">{{660, 1}, {15, 393}}</string>
 									<reference key="NSSuperview" ref="848692267"/>
 									<reference key="NSTarget" ref="848692267"/>
 									<string key="NSAction">_doScroller:</string>
@@ -1123,7 +1123,7 @@
 									<double key="NSPercent">0.94565218687057495</double>
 								</object>
 							</object>
-							<string key="NSFrame">{{-1, 20}, {676, 396}}</string>
+							<string key="NSFrame">{{-1, -1}, {676, 396}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
 							<reference key="NSNextKeyView" ref="604496650"/>
 							<int key="NSsFlags">18</int>
@@ -1132,7 +1132,7 @@
 							<reference key="NSContentView" ref="604496650"/>
 						</object>
 					</object>
-					<string key="NSFrameSize">{674, 612}</string>
+					<string key="NSFrameSize">{674, 591}</string>
 					<reference key="NSSuperview"/>
 				</object>
 				<string key="NSScreenRect">{{0, 0}, {1680, 1028}}</string>
@@ -2539,9 +2539,9 @@
 					<integer value="1"/>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<integer value="1"/>
-					<string>{{430, 169}, {674, 612}}</string>
+					<string>{{430, 190}, {674, 591}}</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
-					<string>{{430, 169}, {674, 612}}</string>
+					<string>{{430, 190}, {674, 591}}</string>
 					<integer value="1"/>
 					<string>{{33, 99}, {480, 360}}</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
