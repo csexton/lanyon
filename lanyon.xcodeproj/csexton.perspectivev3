@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>ActivePerspectiveName</key>
-	<string>Project</string>
+	<string>Debug</string>
 	<key>AllowedModules</key>
 	<array>
 		<dict>
@@ -294,8 +294,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>7</integer>
-									<integer>6</integer>
+									<integer>3</integer>
+									<integer>2</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -316,8 +316,6 @@
 							<string>MainColumn</string>
 							<real>185</real>
 						</array>
-						<key>RubberWindowFrame</key>
-						<string>366 184 992 683 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -345,13 +343,13 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>B5C88AC41129B3FB00D38E8B</string>
+										<string>B5C88AE51129D85D00D38E8B</string>
 										<key>history</key>
 										<array>
 											<string>B5C8891E1124B36700D38E8B</string>
 											<string>B5C8891F1124B36700D38E8B</string>
-											<string>B5C88A841129AD6700D38E8B</string>
-											<string>B5C88AB71129B18E00D38E8B</string>
+											<string>B5C88AD01129D6A800D38E8B</string>
+											<string>B5C88AE31129D85C00D38E8B</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -366,8 +364,6 @@
 							<dict>
 								<key>Frame</key>
 								<string>{{0, 0}, {785, 449}}</string>
-								<key>RubberWindowFrame</key>
-								<string>366 184 992 683 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -445,8 +441,6 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {785, 161}}</string>
-										<key>RubberWindowFrame</key>
-										<string>366 184 992 683 0 0 1440 878 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -530,6 +524,8 @@
 					<dict>
 						<key>Frame</key>
 						<string>{{0, 0}, {992, 194}}</string>
+						<key>RubberWindowFrame</key>
+						<string>366 184 992 683 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugCLIModule</string>
@@ -604,7 +600,11 @@
 							</array>
 							<key>Frame</key>
 							<string>{{484, 0}, {508, 215}}</string>
+							<key>RubberWindowFrame</key>
+							<string>366 184 992 683 0 0 1440 878 </string>
 						</dict>
+						<key>RubberWindowFrame</key>
+						<string>366 184 992 683 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugSessionModule</string>
@@ -651,7 +651,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>287945723.55518597</real>
+	<real>287955037.97072202</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -668,7 +668,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>B5C88AC51129B3FB00D38E8B</string>
+		<string>B5C88AE61129D85D00D38E8B</string>
 		<string>B5C888D41124AD1000D38E8B</string>
 		<string>B5C888D51124AD1000D38E8B</string>
 		<string>/Users/csexton/src/personal/lanyon/lanyon.xcodeproj</string>
