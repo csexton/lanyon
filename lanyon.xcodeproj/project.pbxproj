@@ -51,6 +51,7 @@
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
 		B5C888BE1124AB5600D38E8B /* post_table_controller.rb in Resources */ = {isa = PBXBuildFile; fileRef = B5C888BD1124AB5600D38E8B /* post_table_controller.rb */; };
 		B5C888C11124ACB900D38E8B /* post.rb in Resources */ = {isa = PBXBuildFile; fileRef = B5C888C01124ACB900D38E8B /* post.rb */; };
+		B5C88AE9112A38F000D38E8B /* tophat.icns in Resources */ = {isa = PBXBuildFile; fileRef = B5C88AE8112A38F000D38E8B /* tophat.icns */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -81,6 +82,7 @@
 		8D1107320486CEB800E47090 /* lanyon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lanyon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5C888BD1124AB5600D38E8B /* post_table_controller.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = post_table_controller.rb; sourceTree = "<group>"; };
 		B5C888C01124ACB900D38E8B /* post.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = post.rb; sourceTree = "<group>"; };
+		B5C88AE8112A38F000D38E8B /* tophat.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = tophat.icns; path = resources/tophat.icns; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 		29B97314FDCFA39411CA2CEA /* lanyon */ = {
 			isa = PBXGroup;
 			children = (
+				B5C88AE8112A38F000D38E8B /* tophat.icns */,
 				172754AE1075979200D0347B /* Tests */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
@@ -234,6 +237,7 @@
 				2BFA9DA710CDF852007972A1 /* MainMenu.xib in Resources */,
 				B5C888BE1124AB5600D38E8B /* post_table_controller.rb in Resources */,
 				B5C888C11124ACB900D38E8B /* post.rb in Resources */,
+				B5C88AE9112A38F000D38E8B /* tophat.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

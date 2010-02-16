@@ -294,8 +294,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>3</integer>
-									<integer>2</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -331,7 +329,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>B5C888AD1124A9B700D38E8B</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>post_table_controller.rb</string>
+								<string>Info.plist</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -339,17 +337,17 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>B5C888AE1124A9B700D38E8B</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>post_table_controller.rb</string>
+										<string>Info.plist</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>B5C88AE51129D85D00D38E8B</string>
+										<string>B5C88AEF112A394200D38E8B</string>
 										<key>history</key>
 										<array>
-											<string>B5C8891E1124B36700D38E8B</string>
 											<string>B5C8891F1124B36700D38E8B</string>
 											<string>B5C88AD01129D6A800D38E8B</string>
-											<string>B5C88AE31129D85C00D38E8B</string>
+											<string>B5C88AEC112A394000D38E8B</string>
+											<string>B5C88AED112A394000D38E8B</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -651,7 +649,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>287955037.97072202</real>
+	<real>287979842.97163999</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -668,7 +666,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>B5C88AE61129D85D00D38E8B</string>
+		<string>B5C88AF0112A394200D38E8B</string>
 		<string>B5C888D41124AD1000D38E8B</string>
 		<string>B5C888D51124AD1000D38E8B</string>
 		<string>/Users/csexton/src/personal/lanyon/lanyon.xcodeproj</string>
